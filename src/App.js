@@ -123,7 +123,7 @@ function App() {
               <div className = "buttons">
              <button onClick={() => {updateEmployeeWage(val.id);
             }} 
-            > Update</button>
+            > Update Wage</button>
             
             <button onClick={() => {deleteEmployee(val.id)}}>Delete</button> 
             </div>
